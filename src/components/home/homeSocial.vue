@@ -42,7 +42,7 @@
         >
           <v-icon>mdi-instagram</v-icon>
         </v-btn>
-        <v-btn
+        <!-- <v-btn
           icon
           class="mx-1"
           target="_blank"
@@ -50,8 +50,8 @@
           v-if="communityInfo.social_links.facebook.length"
         >
           <v-icon>mdi-facebook</v-icon>
-        </v-btn>
-        <v-btn
+        </v-btn> -->
+        <!-- <v-btn
           icon
           class="mx-1"
           target="_blank"
@@ -59,7 +59,7 @@
           v-if="communityInfo.social_links.youtube.length"
         >
           <v-icon>mdi-youtube</v-icon>
-        </v-btn>
+        </v-btn> -->
       </v-col>
     </v-row>
   </v-container>

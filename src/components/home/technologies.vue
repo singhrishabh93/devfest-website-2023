@@ -8,7 +8,7 @@
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda incidunt fuga, architecto reprehenderit corporis necessitatibus! Eius quae voluptate provident iusto laudantium eum reprehenderit, officia aperiam odio et explicabo tenetur cupiditate.</p>
           <v-container fluid>
             <v-row justify="start" align="start">
-              <v-col md="1" sm="2" cols="3" v-for="(item, index) in techs" :key="index">
+              <v-col md="2" sm="2" cols="3" v-for="(item, index) in techs" :key="index">
                 <a :href="item.link" target="_blank">
                   <v-avatar color="white" size="60">
                     <v-img :src="item.logo"></v-img>

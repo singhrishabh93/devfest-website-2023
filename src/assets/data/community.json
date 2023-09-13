@@ -1,13 +1,13 @@
 {
-    "community_name": "GDG Jakarta",
-    "city": "Jakarta",
-    "community_url": "https://gdg.community.dev/gdg-jakarta",
+    "community_name": "GDG Bhilai",
+    "city": "Bhilai",
+    "community_url": "https://gdg.community.dev/gdg-bhilai/",
     "short_desc": "",
-    "community_hashtag":"GDGJakarta",
+    "community_hashtag":"GDGBhilai",
     "social_links":{
-        "twitter":"a",
-        "linkedin": "v",
-        "instagram":"x",
+        "twitter":"https://twitter.com/gdgbhilai",
+        "linkedin": "https://www.linkedin.com/company/gdgbhilai/",
+        "instagram":"https://instagram.com/gdgbhilai",
         "facebook": "d",
         "youtube": "e"
     }
